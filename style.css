@@ -1,0 +1,35 @@
+header {
+  text-align: center;
+  font-size: 30px;
+}
+
+
+#playfield {
+  display: flex;
+  justify-content: center;
+  }
+
+
+.showcard {
+  text-align: center;
+  padding: 20px;
+  background-color: darkred;
+  color: lightgrey;
+  height: 600px;
+  width:400px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+#btn {
+  padding: 20px;
+  text-align: center;
+}
+
+button {
+  font-size: 30px;
+}
+
+img {
+  height: 75%;
+}
